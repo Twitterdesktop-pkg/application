@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Twitter
+Comment=Unofficial Twitter Desktop Application
+Icon=twitter-icon
+Exec=twitter
+Actions=
+Categories=Network;
